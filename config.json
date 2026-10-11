@@ -1,12 +1,14 @@
-{
-  "name": "Teto Stompbox",
-  "author": "CupOFBizarre",
-  "path": "Plugins/Teto Stompbox.zip",
-  "patch": "teto_stompbox_v5.pd",
-  "formats": ["VST3"],
-  "type": "fx",
-  "version": "1.0.0",
-  "enable_gem": false,
-  "enable_sfizz": false,
-  "enable_ffmpeg": false
-}
+[
+  {
+    "name": "Teto Stompbox",
+    "author": "CupOFBizarre",
+    "path": "Plugins/Teto Stompbox.zip",
+    "patch": "teto_stompbox_v5.pd",
+    "formats": ["VST3"],
+    "type": "fx",
+    "version": "1.0.0",
+    "enable_gem": false,
+    "enable_sfizz": false,
+    "enable_ffmpeg": false
+  }
+]
